@@ -1,0 +1,3 @@
+https://skwu5555.github.io/ec001/walmart2.json
+
+http://data.kaohsiung.gov.tw/Opendata/DownLoad.aspx?Type=2&CaseNo1=AV&CaseNo2=1&FileType=1&Lang=C
